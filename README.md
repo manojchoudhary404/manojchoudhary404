@@ -40,7 +40,7 @@ I'm always exploring new technologies. Right now, I'm focused on:
 
 I'm always open to discussing project collaborations, new tech trends, or any innovative ideas you may have. Feel free to connect with me:
 
-- **LinkedIn:** [Manoj Choudhary](www.linkedin.com/in/manoj-choudhary7)
+- **LinkedIn:** [Manoj Choudhary](www.linkedin.com/in/ manoj-choudhary7)
 - **Email:** manojchoudhary7.in@gmail.com
 
 ---
