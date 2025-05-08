@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm **Manoj Choudhary**, a passionate backend deve
 
 ## 🔧 Skills & Technologies
 
-- **Languages:** Python, Java, C++, FireBase.
-- **Frameworks & Libraries:** Django, Flask, FastAPI.
-- **Databases:** PostgreSQL, MySQL, MongoDB ,FireBase.
+- **Languages:** Python, Java, C++,Html,Css,js
+- **Frameworks & Libraries:** Django, FastAPI.
+- **Databases:** MySQL,FireBase.
 - **Tools:** Docker, Git.
 - **APIs & Integrations:** REST, Fake API, Third-party API integration.
 
