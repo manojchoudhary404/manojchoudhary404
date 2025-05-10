@@ -38,14 +38,14 @@ I'm always exploring new technologies. Right now, I'm focused on:
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact Me
+####  I’m always open to questions, suggestions, or collaborative opportunities! Feel free to connect with me through:
 
-I'm always open to discussing project collaborations, new tech trends, or any innovative ideas you may have. Feel free to connect with me:
-
-- **LinkedIn:** [Manoj Choudhary](www.linkedin.com/in/ manoj-choudhary7)
-- **Email:** manojchoudhary7.in@gmail.com
-
----
+- LinkedIn: [Manoj Choudhary](www.linkedin.com/in/manoj-choudhary7)
+- github: [@manojchoudhary404](https://github.com/manojchoudhary404)
+- Email: manojchoudhary7.in@gmail.com
+- 
+  ---
 
 Thank you for visiting my GitHub profile. Let's code something amazing together!
 
