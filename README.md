@@ -20,11 +20,11 @@ Welcome to my GitHub profile! I'm **Manoj Choudhary**, a passionate backend deve
 
 Here are some of the key projects I've worked on:
 
-- **[100Days-Of-Python-Challenge](https://github.com/manojchoudhary404/100Days-Of-Python-Challenge)** – Brief description of the project
-- **[Sports-academy ](https://github.com/manojchoudhary404/Sports-academy)** – Brief description of the project
-- **[AmazonBased-clone-manoj ](https://github.com/manojchoudhary404/AmazonBased-clone-manoj)** – Brief description of the project
-- **[Java-Simple-Pattern-Programs ](https://github.com/manojchoudhary404/Java-Simple-Pattern-Programs)** – Brief description of the project
-- **[PersonalVoiceAssistant ](https://github.com/manojchoudhary404/PersonalVoiceAssistant)** – Brief description of the project
+- **[100Days-Of-Python-Challenge](https://github.com/manojchoudhary404/100Days-Of-Python-Challenge)** 
+- **[Sports-academy ](https://github.com/manojchoudhary404/Sports-academy)** 
+- **[AmazonBased-clone-manoj ](https://github.com/manojchoudhary404/AmazonBased-clone-manoj)** 
+- **[Java-Simple-Pattern-Programs ](https://github.com/manojchoudhary404/Java-Simple-Pattern-Programs)** 
+- **[PersonalVoiceAssistant ](https://github.com/manojchoudhary404/PersonalVoiceAssistant)** 
   
 
 ---
