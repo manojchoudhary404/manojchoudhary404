@@ -44,8 +44,6 @@ I'm always exploring new technologies. Right now, I'm focused on:
 - LinkedIn: [Manoj Choudhary](www.linkedin.com/in/manoj-choudhary7)
 - github: [@manojchoudhary404](https://github.com/manojchoudhary404)
 - Email: manojchoudhary7.in@gmail.com
-- 
-  ---
 
 Thank you for visiting my GitHub profile. Let's code something amazing together!
 
