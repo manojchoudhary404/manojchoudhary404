@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f766e,100:134e4a&amp;height=200&amp;section=header&amp;text=Manoj%20Choudhary&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Python&amp;descAlignY=58&amp;descSize=18&amp;descColor=99f6e4" width="100%"/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Choudhary-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/manojchoudhary7/)
 [![GitHub](https://img.shields.io/badge/GitHub-manojchoudhary404-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/manojchoudhary404)
 [![Email](https://img.shields.io/badge/Email-manojchoudhary7.in%40gmail.com-ea4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:manojchoudhary7.in@gmail.com)
@@ -220,9 +218,9 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manojchoudhary404&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=0f766e&amp;icon_color=f59e0b&amp;text_color=c9d1d9&amp;border_color=21262d"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojchoudhary404&show_icons=true&theme=dark&bg_color=0d1117&title_color=0f766e&icon_color=f59e0b&text_color=c9d1d9&border_color=21262d)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojchoudhary404&amp;layout=compact&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=0f766e&amp;text_color=c9d1d9&amp;border_color=21262d"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojchoudhary404&layout=compact&theme=dark&bg_color=0d1117&title_color=0f766e&text_color=c9d1d9&border_color=21262d)
 
 </div>
 
@@ -238,7 +236,7 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 
 | Degree | Institution | Score | Year |
 |--------|-------------|-------|------|
-| **MCA** — Master of Computer Applications | MIT World Peace University, Pune | GPA: 7.2/10 | 2024 – Present |
+| **MCA** — Master of Computer Applications | MIT World Peace University, Pune | GPA: 7.9/10 | 2024 – Present |
 | **BBCA** — Bachelor of Business &amp; Computer Applications | Savitribai Phule Pune University | CGPA: 8.32/10 | 2021 – 2024 |
 
 ---
@@ -278,6 +276,7 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 [![Email](https://img.shields.io/badge/Send%20an%20Email-ea4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:manojchoudhary7.in@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/manojchoudhary404)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:134e4a,100:0f766e&amp;height=120&amp;section=footer" width="100%"/>
+---
+*Thanks for visiting! Let's build something amazing together. 🚀*
 
 </div>
