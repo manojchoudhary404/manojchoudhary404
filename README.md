@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:134e4a&height=200&section=header&text=Manoj%20Choudhary&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Python&descAlignY=58&descSize=18&descColor=99f6e4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f766e,100:134e4a&amp;height=200&amp;section=header&amp;text=Manoj%20Choudhary&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Python&amp;descAlignY=58&amp;descSize=18&amp;descColor=99f6e4" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Choudhary-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-choudhary7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Choudhary-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojchoudhary7/)
 [![GitHub](https://img.shields.io/badge/GitHub-manojchoudhary404-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojchoudhary404)
 [![Email](https://img.shields.io/badge/Email-manojchoudhary7.in%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojchoudhary7.in@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Pune%2C%20India-0f766e?style=for-the-badge)](https://github.com/manojchoudhary404)
@@ -83,7 +83,32 @@ public class ManojChoudhary implements BackendEngineer {
 
 ## 🚀 Featured Projects
 
+> Showing top 4 projects — click **"View More Projects"** below to see the full list
+
 <table>
+<tr>
+<td width="50%">
+
+### 🩺 Doctor Rating System
+**React.js · Node.js · Express.js · MySQL**
+
+Full-stack doctor review platform with complete CRUD, dynamic star ratings, review modals, toast notifications, and paginated reviews. REST API with express-validator.
+
+[![Backend](https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/doctor-rating-backend)
+[![Frontend](https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/doctor-rating-frontend)
+
+</td>
+<td width="50%">
+
+### 🎬 Sentiment Analysis — Movie Reviews
+**Python · Scikit-learn · NLTK · Pandas**
+
+NLP pipeline classifying IMDB reviews as Positive/Negative. Covers TF-IDF feature extraction, Logistic Regression, Naive Bayes, Linear SVM, WordCloud visualization, and model persistence via joblib.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/Sentiment_Analysis)
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
@@ -97,38 +122,65 @@ Full-stack platform handling **100+ concurrent users** with Firebase backend and
 </td>
 <td width="50%">
 
-### 🎬 Movie Streaming Android App
-**Java · XML · Firebase Auth · Firestore**
+### 📚 Library Management Application
+**Java · OOP · ArrayList · Console UI**
 
-Android app supporting **100+ simultaneous users** with role-based access control. Search and filtering across 500+ videos — cut query time by **60%**.
+Console-based Java app managing Books, Magazines, and DVDs using OOP principles — Inheritance, Polymorphism, and Encapsulation. Menu-driven interface with full CRUD operations across layered package architecture.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/Library-Management-Application)
 
 </td>
 </tr>
+</table>
+
+---
+
+<details>
+<summary><b>📂 View More Projects (3 more)</b></summary>
+
+<br>
+
+<table>
 <tr>
 <td width="50%">
 
 ### 🎤 Personal Voice Assistant
-**Python · SpeechRecognition · pyttsx3**
+**Python · SpeechRecognition · pyttsx3 · smtplib**
 
-Desktop voice assistant with **10+ automation commands** — web search, email, and system control. Achieved **85% voice command accuracy**, cutting routine task time by 50% across 20+ beta users.
+Desktop voice assistant with **10+ automation commands** — Wikipedia search, email via SMTP, music playback, website launcher, and system control. Achieved **85% voice command accuracy**, cutting routine task time by **50%** across 20+ beta users.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/PersonalVoiceAssistant)
 
 </td>
 <td width="50%">
 
-### 🐍 100 Days of Python Challenge
-**Python**
+### 🌐 Portfolio Webpage
+**HTML · CSS · JavaScript**
 
-Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, web scraping, data science, APIs, and GUI apps.
+Personal developer portfolio built during internship assignment. Clean responsive layout showcasing skills, projects, and contact information.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/internship-assignment1-Portfolio-webpage)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐍 100 Days of Python Challenge
+**Python · Automation · Web Scraping · APIs · Data Science**
+
+Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, web scraping, REST APIs, data science, GUI apps, and more. 100 projects in 100 days.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/100Days-Of-Python-Challenge)
 
 </td>
+<td width="50%">
+
+</td>
 </tr>
 </table>
+
+</details>
 
 ---
 
@@ -148,9 +200,9 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manojchoudhary404&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0f766e&icon_color=f59e0b&text_color=c9d1d9&border_color=21262d"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manojchoudhary404&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=0f766e&amp;icon_color=f59e0b&amp;text_color=c9d1d9&amp;border_color=21262d"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojchoudhary404&layout=compact&theme=dark&bg_color=0d1117&title_color=0f766e&text_color=c9d1d9&border_color=21262d"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojchoudhary404&amp;layout=compact&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=0f766e&amp;text_color=c9d1d9&amp;border_color=21262d"/>
 
 </div>
 
@@ -188,7 +240,7 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 
 ```
 ├── 🍃 Spring Boot — REST APIs, JPA, Hibernate
-├── 🔐 Spring Security — JWT Authentication & Authorization  
+├── 🔐 Spring Security — JWT Authentication & Authorization
 ├── 🐳 Docker — Containerization & Deployment
 ├── 🧮 DSA with C++ — Algorithms & Data Structures
 └── ☕ Advanced Java — Design Patterns & Microservices
@@ -206,6 +258,6 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 [![Email](https://img.shields.io/badge/Send%20an%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojchoudhary7.in@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojchoudhary404)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,100:0f766e&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:134e4a,100:0f766e&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
