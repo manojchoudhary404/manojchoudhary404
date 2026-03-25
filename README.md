@@ -83,7 +83,7 @@ public class ManojChoudhary implements BackendEngineer {
 
 ## 🚀 Featured Projects
 
-> Showing top 4 projects — click **"View More Projects"** below to see the full list
+> Showing top 4 highlights — click **"View All Projects"** below to see all 9
 
 <table>
 <tr>
@@ -92,7 +92,7 @@ public class ManojChoudhary implements BackendEngineer {
 ### 🩺 Doctor Rating System
 **React.js · Node.js · Express.js · MySQL**
 
-Full-stack doctor review platform with complete CRUD, dynamic star ratings, review modals, toast notifications, and paginated reviews. REST API with express-validator.
+Full-stack doctor review platform with complete CRUD, dynamic star ratings, review modals, toast notifications, and paginated reviews. REST API with input validation via express-validator.
 
 [![Backend](https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/doctor-rating-backend)
 [![Frontend](https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/doctor-rating-frontend)
@@ -103,7 +103,7 @@ Full-stack doctor review platform with complete CRUD, dynamic star ratings, revi
 ### 🎬 Sentiment Analysis — Movie Reviews
 **Python · Scikit-learn · NLTK · Pandas**
 
-NLP pipeline classifying IMDB reviews as Positive/Negative. Covers TF-IDF feature extraction, Logistic Regression, Naive Bayes, Linear SVM, WordCloud visualization, and model persistence via joblib.
+NLP pipeline classifying IMDB reviews as Positive/Negative using TF-IDF, Logistic Regression, Naive Bayes, and Linear SVM. Includes WordCloud visualization and model persistence via joblib.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/Sentiment_Analysis)
 
@@ -112,10 +112,10 @@ NLP pipeline classifying IMDB reviews as Positive/Negative. Covers TF-IDF featur
 <tr>
 <td width="50%">
 
-### 🛒 E-Commerce Shopping Platform
-**React.js · Firebase · JavaScript**
+### 🛒 Amazon-Based E-Commerce Clone
+**React.js · Firebase · Cloud Firestore · JavaScript**
 
-Full-stack platform handling **100+ concurrent users** with Firebase backend and 500+ product catalog. Built shopping cart and payment workflow across 10+ pages — boosted mobile usability by **35%**.
+Full-stack shopping platform handling **100+ concurrent users** with Firebase backend, 500+ product catalog, and dynamic cart. Built 15+ reusable React components — reduced code redundancy by **40%**.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/AmazonBased-clone-manoj)
 
@@ -125,7 +125,7 @@ Full-stack platform handling **100+ concurrent users** with Firebase backend and
 ### 📚 Library Management Application
 **Java · OOP · ArrayList · Console UI**
 
-Console-based Java app managing Books, Magazines, and DVDs using OOP principles — Inheritance, Polymorphism, and Encapsulation. Menu-driven interface with full CRUD operations across layered package architecture.
+Console-based Java app managing Books, Magazines, and DVDs using Inheritance, Polymorphism, and Encapsulation. Menu-driven interface with full CRUD across a layered package architecture.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/Library-Management-Application)
 
@@ -136,7 +136,7 @@ Console-based Java app managing Books, Magazines, and DVDs using OOP principles 
 ---
 
 <details>
-<summary><b>📂 View More Projects (3 more)</b></summary>
+<summary><b>📂 View All Projects — 5 more ↓</b></summary>
 
 <br>
 
@@ -154,12 +154,34 @@ Desktop voice assistant with **10+ automation commands** — Wikipedia search, e
 </td>
 <td width="50%">
 
+### 🏅 Sports Academy Website
+**HTML · CSS · JavaScript**
+
+Responsive website for a sports academy showcasing programs, facilities, coaching staff, and enrollment information. Clean, structured frontend with modern layout and mobile-friendly design.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/Sports-academy)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🌐 Portfolio Webpage
 **HTML · CSS · JavaScript**
 
-Personal developer portfolio built during internship assignment. Clean responsive layout showcasing skills, projects, and contact information.
+Personal developer portfolio built as an internship assignment. Responsive layout showcasing skills, projects, and contact details with a clean, professional UI.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/internship-assignment1-Portfolio-webpage)
+
+</td>
+<td width="50%">
+
+### ☕ Java Simple Pattern Programs
+**Java**
+
+Collection of Java programs printing classic patterns — pyramids, diamonds, triangles, and number patterns. Great reference for understanding nested loops and logic building fundamentals.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/Java-Simple-Pattern-Programs)
 
 </td>
 </tr>
@@ -174,9 +196,7 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/100Days-Of-Python-Challenge)
 
 </td>
-<td width="50%">
-
-</td>
+<td width="50%"></td>
 </tr>
 </table>
 
