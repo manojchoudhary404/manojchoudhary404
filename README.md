@@ -1,60 +1,211 @@
-# 👋 Hello, I'm Manoj Choudhary
+<div align="center">
 
-### Backend Developer | Python Enthusiast | Tech Explorer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:134e4a&height=200&section=header&text=Manoj%20Choudhary&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Python&descAlignY=58&descSize=18&descColor=99f6e4" width="100%"/>
 
-Welcome to my GitHub profile! I'm **Manoj Choudhary**, a passionate backend developer dedicated to creating efficient, scalable, and secure applications. My expertise lies in Python and backend technologies.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Choudhary-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojchoudhary7/)
+[![GitHub](https://img.shields.io/badge/GitHub-manojchoudhary404-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojchoudhary404)
+[![Email](https://img.shields.io/badge/Email-manojchoudhary7.in%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojchoudhary7.in@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Pune%2C%20India-0f766e?style=for-the-badge)](https://github.com/manojchoudhary404)
 
----
-
-## 🔧 Skills & Technologies
-
-- **Languages:** Python, Java, C++,Html,Css,js
-- **Frameworks & Libraries:** Django, FastAPI.
-- **Databases:** MySQL,FireBase.
-- **Tools:** Docker, Git.
-- **APIs & Integrations:** REST, Fake API, Third-party API integration.
+</div>
 
 ---
 
-## 📈 Projects
+## 👨‍💻 About Me
 
-Here are some of the key projects I've worked on:
+```java
+@Component
+public class ManojChoudhary implements BackendEngineer {
 
-- **[100Days-Of-Python-Challenge](https://github.com/manojchoudhary404/100Days-Of-Python-Challenge)** 
-- **[Sports-academy ](https://github.com/manojchoudhary404/Sports-academy)** 
-- **[AmazonBased-clone-manoj ](https://github.com/manojchoudhary404/AmazonBased-clone-manoj)** 
-- **[Java-Simple-Pattern-Programs ](https://github.com/manojchoudhary404/Java-Simple-Pattern-Programs)** 
-- **[PersonalVoiceAssistant ](https://github.com/manojchoudhary404/PersonalVoiceAssistant)** 
-  
+    private final String role      = "Backend Engineer";
+    private final String education = "MCA @ MIT World Peace University, Pune";
+    private final String phone     = "+91-72629-99538";
+
+    @Override
+    public List<String> currentlyBuilding() {
+        return List.of(
+            "Scalable REST APIs with Spring Boot",
+            "Microservices architecture patterns",
+            "Full-stack apps with React + Java backend"
+        );
+    }
+
+    @Override
+    public List<String> currentlyLearning() {
+        return List.of(
+            "Spring Security & JWT Auth",
+            "Docker & container orchestration",
+            "DSA with C++ for competitive programming"
+        );
+    }
+
+    @Override
+    public String funFact() {
+        return "I annotated 1,200+ images that improved ML model precision by 20% 🤖";
+    }
+}
+```
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Tech Stack
 
-I'm always exploring new technologies. Right now, I'm focused on:
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-- **C++ with Data Structures and Algorithms (DSA)** for deeper programming efficiency
-- **Advanced Java concepts** like inheritance, abstract classes, and exception handling
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📫 Contact Me
-####  I’m always open to questions, suggestions, or collaborative opportunities! Feel free to connect with me through:
+## 🚀 Featured Projects
 
-- LinkedIn: [Manoj Choudhary](https://www.linkedin.com/in/manoj-choudhary7/)
-- github: [@manojchoudhary404](https://github.com/manojchoudhary404)
-- Email: manojchoudhary7.in@gmail.com
+<table>
+<tr>
+<td width="50%">
 
-Thank you for visiting my GitHub profile. Let's code something amazing together!
+### 🛒 E-Commerce Shopping Platform
+**React.js · Firebase · JavaScript**
 
+Full-stack platform handling **100+ concurrent users** with Firebase backend and 500+ product catalog. Built shopping cart and payment workflow across 10+ pages — boosted mobile usability by **35%**.
 
-<!---
-manojchoudhary404/manojchoudhary404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/AmazonBased-clone-manoj)
 
+</td>
+<td width="50%">
 
-<!---
-manojchoudhary404/manojchoudhary404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎬 Movie Streaming Android App
+**Java · XML · Firebase Auth · Firestore**
+
+Android app supporting **100+ simultaneous users** with role-based access control. Search and filtering across 500+ videos — cut query time by **60%**.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎤 Personal Voice Assistant
+**Python · SpeechRecognition · pyttsx3**
+
+Desktop voice assistant with **10+ automation commands** — web search, email, and system control. Achieved **85% voice command accuracy**, cutting routine task time by 50% across 20+ beta users.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/PersonalVoiceAssistant)
+
+</td>
+<td width="50%">
+
+### 🐍 100 Days of Python Challenge
+**Python**
+
+Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, web scraping, data science, APIs, and GUI apps.
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/100Days-Of-Python-Challenge)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Image Annotator — ZinoSapiens AI Labs, Pune
+`Jan 2020 – Jan 2023`
+
+- 📸 Annotated **1,200+ images & videos** for computer vision models → drove **20% precision gain** across 3 production ML pipelines
+- 🤝 Partnered with AI engineering team across **50+ feedback sessions** → boosted model accuracy by **15%**, cut false positives by **18%**
+- ⚡ Streamlined annotation workflow via CVAT automation → **20% faster turnaround** on 50+ daily annotations
+- 🎓 Trained **6 annotators**, validated 1,000+ images at 98% accuracy → slashed onboarding time by **40%**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manojchoudhary404&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0f766e&icon_color=f59e0b&text_color=c9d1d9&border_color=21262d"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojchoudhary404&layout=compact&theme=dark&bg_color=0d1117&title_color=0f766e&text_color=c9d1d9&border_color=21262d"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=manojchoudhary404&theme=dark&background=0d1117&ring=0f766e&fire=f59e0b&currStreakLabel=0f766e&border=21262d)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Score | Year |
+|--------|-------------|-------|------|
+| **MCA** — Master of Computer Applications | MIT World Peace University, Pune | GPA: 7.2/10 | 2024 – Present |
+| **BBCA** — Bachelor of Business & Computer Applications | Savitribai Phule Pune University | CGPA: 8.32/10 | 2021 – 2024 |
+
+---
+
+## 📜 Certifications
+
+| Certificate | Issuer |
+|-------------|--------|
+| Full Stack Web Development | SEED Infotech |
+| 100 Days Python Bootcamp | Udemy |
+| Java Programming | LearnQuest |
+| JavaScript Development | Coursera |
+| SQL Database Querying | IBM |
+| C++ Programming | University of London |
+
+---
+
+## 🌱 Currently Exploring
+
+```
+├── 🍃 Spring Boot — REST APIs, JPA, Hibernate
+├── 🔐 Spring Security — JWT Authentication & Authorization  
+├── 🐳 Docker — Containerization & Deployment
+├── 🧮 DSA with C++ — Algorithms & Data Structures
+└── ☕ Advanced Java — Design Patterns & Microservices
+```
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Together
+
+*Open to backend engineering roles, collaborations, and interesting projects.*
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojchoudhary7/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojchoudhary7.in@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojchoudhary404)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,100:0f766e&height=120&section=footer" width="100%"/>
+
+</div>
