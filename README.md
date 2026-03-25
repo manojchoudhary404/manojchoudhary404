@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f766e,100:134e4a&amp;height=200&amp;section=header&amp;text=Manoj%20Choudhary&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Python&amp;descAlignY=58&amp;descSize=18&amp;descColor=99f6e4" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Choudhary-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojchoudhary7/)
-[![GitHub](https://img.shields.io/badge/GitHub-manojchoudhary404-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojchoudhary404)
-[![Email](https://img.shields.io/badge/Email-manojchoudhary7.in%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojchoudhary7.in@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Choudhary-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/manojchoudhary7/)
+[![GitHub](https://img.shields.io/badge/GitHub-manojchoudhary404-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/manojchoudhary404)
+[![Email](https://img.shields.io/badge/Email-manojchoudhary7.in%40gmail.com-ea4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:manojchoudhary7.in@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Pune%2C%20India-0f766e?style=for-the-badge)](https://github.com/manojchoudhary404)
 
 </div>
@@ -51,33 +51,33 @@ public class ManojChoudhary implements BackendEngineer {
 ## 🛠️ Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
 
-### Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### Backend &amp; Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black)
 
-### Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+### Databases &amp; Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&amp;logo=firebase&amp;logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Tools &amp; Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&amp;logo=androidstudio&amp;logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white)
 
 ---
 
@@ -94,8 +94,8 @@ public class ManojChoudhary implements BackendEngineer {
 
 Full-stack doctor review platform with complete CRUD, dynamic star ratings, review modals, toast notifications, and paginated reviews. REST API with input validation via express-validator.
 
-[![Backend](https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/doctor-rating-backend)
-[![Frontend](https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/doctor-rating-frontend)
+[![Backend](https://img.shields.io/badge/Backend-181717?style=flat-square&amp;logo=github)](https://github.com/manojchoudhary404/doctor-rating-backend)
+[![Frontend](https://img.shields.io/badge/Frontend-181717?style=flat-square&amp;logo=github)](https://github.com/manojchoudhary404/doctor-rating-frontend)
 
 </td>
 <td width="50%">
@@ -105,7 +105,7 @@ Full-stack doctor review platform with complete CRUD, dynamic star ratings, revi
 
 NLP pipeline classifying IMDB reviews as Positive/Negative using TF-IDF, Logistic Regression, Naive Bayes, and Linear SVM. Includes WordCloud visualization and model persistence via joblib.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/Sentiment_Analysis)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&amp;logo=github)](https://github.com/manojchoudhary404/Sentiment_Analysis)
 
 </td>
 </tr>
@@ -117,7 +117,7 @@ NLP pipeline classifying IMDB reviews as Positive/Negative using TF-IDF, Logisti
 
 Full-stack shopping platform handling **100+ concurrent users** with Firebase backend, 500+ product catalog, and dynamic cart. Built 15+ reusable React components — reduced code redundancy by **40%**.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/AmazonBased-clone-manoj)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&amp;logo=github)](https://github.com/manojchoudhary404/AmazonBased-clone-manoj)
 
 </td>
 <td width="50%">
@@ -127,7 +127,7 @@ Full-stack shopping platform handling **100+ concurrent users** with Firebase ba
 
 Console-based Java app managing Books, Magazines, and DVDs using Inheritance, Polymorphism, and Encapsulation. Menu-driven interface with full CRUD across a layered package architecture.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/Library-Management-Application)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&amp;logo=github)](https://github.com/manojchoudhary404/Library-Management-Application)
 
 </td>
 </tr>
@@ -149,7 +149,7 @@ Console-based Java app managing Books, Magazines, and DVDs using Inheritance, Po
 
 Desktop voice assistant with **10+ automation commands** — Wikipedia search, email via SMTP, music playback, website launcher, and system control. Achieved **85% voice command accuracy**, cutting routine task time by **50%** across 20+ beta users.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/PersonalVoiceAssistant)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&amp;logo=github)](https://github.com/manojchoudhary404/PersonalVoiceAssistant)
 
 </td>
 <td width="50%">
@@ -159,7 +159,7 @@ Desktop voice assistant with **10+ automation commands** — Wikipedia search, e
 
 Responsive website for a sports academy showcasing programs, facilities, coaching staff, and enrollment information. Clean, structured frontend with modern layout and mobile-friendly design.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/Sports-academy)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&amp;logo=github)](https://github.com/manojchoudhary404/Sports-academy)
 
 </td>
 </tr>
@@ -171,7 +171,7 @@ Responsive website for a sports academy showcasing programs, facilities, coachin
 
 Personal developer portfolio built as an internship assignment. Responsive layout showcasing skills, projects, and contact details with a clean, professional UI.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/internship-assignment1-Portfolio-webpage)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&amp;logo=github)](https://github.com/manojchoudhary404/internship-assignment1-Portfolio-webpage)
 
 </td>
 <td width="50%">
@@ -181,7 +181,7 @@ Personal developer portfolio built as an internship assignment. Responsive layou
 
 Collection of Java programs printing classic patterns — pyramids, diamonds, triangles, and number patterns. Great reference for understanding nested loops and logic building fundamentals.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/Java-Simple-Pattern-Programs)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&amp;logo=github)](https://github.com/manojchoudhary404/Java-Simple-Pattern-Programs)
 
 </td>
 </tr>
@@ -193,7 +193,7 @@ Collection of Java programs printing classic patterns — pyramids, diamonds, tr
 
 Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, web scraping, REST APIs, data science, GUI apps, and more. 100 projects in 100 days.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/manojchoudhary404/100Days-Of-Python-Challenge)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&amp;logo=github)](https://github.com/manojchoudhary404/100Days-Of-Python-Challenge)
 
 </td>
 <td width="50%"></td>
@@ -209,7 +209,7 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 ### 🏢 Image Annotator — ZinoSapiens AI Labs, Pune
 `Jan 2020 – Jan 2023`
 
-- 📸 Annotated **1,200+ images & videos** for computer vision models → drove **20% precision gain** across 3 production ML pipelines
+- 📸 Annotated **1,200+ images &amp; videos** for computer vision models → drove **20% precision gain** across 3 production ML pipelines
 - 🤝 Partnered with AI engineering team across **50+ feedback sessions** → boosted model accuracy by **15%**, cut false positives by **18%**
 - ⚡ Streamlined annotation workflow via CVAT automation → **20% faster turnaround** on 50+ daily annotations
 - 🎓 Trained **6 annotators**, validated 1,000+ images at 98% accuracy → slashed onboarding time by **40%**
@@ -228,7 +228,7 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=manojchoudhary404&theme=dark&background=0d1117&ring=0f766e&fire=f59e0b&currStreakLabel=0f766e&border=21262d)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=manojchoudhary404&amp;theme=dark&amp;background=0d1117&amp;ring=0f766e&amp;fire=f59e0b&amp;currStreakLabel=0f766e&amp;border=21262d)](https://git.io/streak-stats)
 
 </div>
 
@@ -239,7 +239,7 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 | Degree | Institution | Score | Year |
 |--------|-------------|-------|------|
 | **MCA** — Master of Computer Applications | MIT World Peace University, Pune | GPA: 7.2/10 | 2024 – Present |
-| **BBCA** — Bachelor of Business & Computer Applications | Savitribai Phule Pune University | CGPA: 8.32/10 | 2021 – 2024 |
+| **BBCA** — Bachelor of Business &amp; Computer Applications | Savitribai Phule Pune University | CGPA: 8.32/10 | 2021 – 2024 |
 
 ---
 
@@ -274,9 +274,9 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 
 *Open to backend engineering roles, collaborations, and interesting projects.*
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojchoudhary7/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojchoudhary7.in@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojchoudhary404)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/manojchoudhary7/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-ea4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:manojchoudhary7.in@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/manojchoudhary404)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:134e4a,100:0f766e&amp;height=120&amp;section=footer" width="100%"/>
 
