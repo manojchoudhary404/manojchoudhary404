@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:134e4a&height=200&section=header&text=Manoj%20Choudhary&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Python&descAlignY=58&descSize=18&descColor=99f6e4" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Choudhary-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojchoudhary7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Choudhary-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-choudhary7/)
 [![GitHub](https://img.shields.io/badge/GitHub-manojchoudhary404-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojchoudhary404)
 [![Email](https://img.shields.io/badge/Email-manojchoudhary7.in%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojchoudhary7.in@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Pune%2C%20India-0f766e?style=for-the-badge)](https://github.com/manojchoudhary404)
