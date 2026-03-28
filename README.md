@@ -216,12 +216,10 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojchoudhary404&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojchoudhary404&layout=compact&theme=dark&hide_border=true) |
-|---|---|
+[![GitHub Stats](https://readme-stats-git-master-manojchoudhary404.vercel.app/api?username=manojchoudhary404&show_icons=true&theme=dark&hide_border=true)](https://github.com/manojchoudhary404)
+[![Top Languages](https://readme-stats-git-master-manojchoudhary404.vercel.app/api/top-langs/?username=manojchoudhary404&layout=compact&theme=dark&hide_border=true)](https://github.com/manojchoudhary404)
 
 <br>
 
