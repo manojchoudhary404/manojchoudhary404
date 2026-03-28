@@ -214,4 +214,61 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 
 ---
 
+## 📊 GitHub Stats
 
+| | |
+|---|---|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojchoudhary404&show_icons=true&theme=dark&bg_color=0d1117&title_color=0f766e&icon_color=f59e0b&text_color=c9d1d9&border_color=21262d&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojchoudhary404&layout=compact&theme=dark&bg_color=0d1117&title_color=0f766e&text_color=c9d1d9&border_color=21262d) |
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=manojchoudhary404&theme=dark&background=0d1117&ring=0f766e&fire=f59e0b&currStreakLabel=0f766e&border=21262d)](https://git.io/streak-stats)
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Score | Year |
+|--------|-------------|-------|------|
+| **MCA** — Master of Computer Applications | MIT World Peace University, Pune | GPA: 7.9/10 | 2024 – Present |
+| **BBCA** — Bachelor of Business & Computer Applications | Savitribai Phule Pune University | CGPA: 8.32/10 | 2021 – 2024 |
+
+---
+
+## 📜 Certifications
+
+| Certificate | Issuer |
+|-------------|--------|
+| Full Stack Web Development | SEED Infotech |
+| 100 Days Python Bootcamp | Udemy |
+| Java Programming | LearnQuest |
+| JavaScript Development | Coursera |
+| SQL Database Querying | IBM |
+| C++ Programming | University of London |
+
+---
+
+## 🌱 Currently Exploring
+```text
+├── 🍃 Spring Boot — REST APIs, JPA, Hibernate
+├── 🔐 Spring Security — JWT Authentication & Authorization
+├── 🐳 Docker — Containerization & Deployment
+├── 🧮 DSA with C++ — Algorithms & Data Structures
+└── ☕ Advanced Java — Design Patterns & Microservices
+```
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Together
+
+*Open to backend engineering roles, collaborations, and interesting projects.*
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojchoudhary7/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojchoudhary7.in@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojchoudhary404)
+
+---
+
+*Thanks for visiting! Let's build something amazing together. 🚀*
+
+</div>
