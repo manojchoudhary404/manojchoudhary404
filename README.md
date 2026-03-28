@@ -216,11 +216,18 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 
 ## 📊 GitHub Stats
 
-| | |
-|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojchoudhary404&show_icons=true&theme=dark&bg_color=0d1117&title_color=0f766e&icon_color=f59e0b&text_color=c9d1d9&border_color=21262d&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojchoudhary404&layout=compact&theme=dark&bg_color=0d1117&title_color=0f766e&text_color=c9d1d9&border_color=21262d) |
+## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=manojchoudhary404&theme=dark&background=0d1117&ring=0f766e&fire=f59e0b&currStreakLabel=0f766e&border=21262d)](https://git.io/streak-stats)
+<div align="center">
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojchoudhary404&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojchoudhary404&layout=compact&theme=dark&hide_border=true) |
+|---|---|
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=manojchoudhary404&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
