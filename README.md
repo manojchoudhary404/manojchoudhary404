@@ -25,17 +25,6 @@
 
 ---
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Choudhary-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/manojchoudhary7/)
-[![GitHub](https://img.shields.io/badge/GitHub-manojchoudhary404-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/manojchoudhary404)
-[![Email](https://img.shields.io/badge/Email-manojchoudhary7.in%40gmail.com-ea4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:manojchoudhary7.in@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Pune%2C%20India-0f766e?style=for-the-badge)](https://github.com/manojchoudhary404)
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 ```java
@@ -303,11 +292,7 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 [![Email](https://img.shields.io/badge/Send%20an%20Email-ea4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:manojchoudhary7.in@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/manojchoudhary404)
 
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0891b2,100:0f766e&height=120&section=footer&animation=fadeIn" alt="footer"/>
-
----
 
 <sub>✨ <i>Thanks for visiting! Let's build something amazing together.</i> 🚀</sub>
 
