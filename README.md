@@ -252,7 +252,7 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 
 | Degree | Institution | Score | Year |
 |--------|-------------|-------|------|
-| **MCA** — Master of Computer Applications | MIT World Peace University, Pune | GPA: 7.2/10 | 2024 – Present |
+| **MCA** — Master of Computer Applications | MIT World Peace University, Pune | GPA: 7.9/10 | 2024 – Present |
 | **BBCA** — Bachelor of Business &amp; Computer Applications | Savitribai Phule Pune University | CGPA: 8.32/10 | 2021 – 2024 |
 
 ---
