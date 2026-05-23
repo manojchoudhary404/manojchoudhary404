@@ -288,7 +288,7 @@ Completed Angela Yu's 100 Days of Code Python Bootcamp — covering automation, 
 
 *Open to backend engineering roles, collaborations, and interesting projects.*
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/manojchoudhary/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/manoj-choudhary/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-ea4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:manojchoudhary7.in@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/manojchoudhary404)
 
